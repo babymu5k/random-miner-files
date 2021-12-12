@@ -12,6 +12,6 @@ V1.5.1 whats new
 -less likely to crash
 -more optimised 
 
-V1.6.1
+V1.6.0
 Yet to be released 
 what to expect:

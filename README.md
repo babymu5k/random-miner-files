@@ -13,6 +13,9 @@ V1.5.1 whats new
 -less likely to crash
 -more optimised 
 
+![image](https://user-images.githubusercontent.com/95881676/145857566-6cf79ad5-f455-416b-ae57-e871d4436e3c.png)
+
+
 V1.6.0
 Yet to be released 
 what to expect:

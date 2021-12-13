@@ -15,3 +15,6 @@ V1.5.1 whats new
 V1.6.0
 Yet to be released 
 what to expect:
+-stabilty
+-now has full color
+-much more efficient
